@@ -4,19 +4,7 @@ Building Artificial Intelligence, Neural Networks, NLP systems, and GPT architec
 
 ## Vision
 
-This repository is dedicated to understanding AI at its core.
-
-Not by calling pre built frameworks.
-
-Not by importing high level neural network APIs.
-
-But by deriving, implementing, and training models using only mathematics and foundational programming.
-
-The goal is complete conceptual clarity.
-
-If you can derive it, you understand it.
-
-If you understand it, you can build anything.
+This repository is dedicated to understanding Artificial Intelligence at its fundamental level by moving beyond high level frameworks and abstracted neural network APIs. Instead of relying on pre built libraries, every model is derived, implemented, and trained using core mathematical principles and foundational programming constructs. The focus is on developing deep conceptual clarity through first principles reasoning, rigorous derivations, and transparent implementations. By understanding how each component emerges from mathematics, rather than treating it as a black box, the goal is to build true intuition. If you can derive a system from scratch, you genuinely understand it. And with that understanding, you gain the ability to design and build any AI system with confidence.
 
 
 ## Projects
