@@ -14,11 +14,7 @@ This repository builds upon foundational understanding developed in my other AI 
 | Project | Description | Link |
 |----------|-------------|------|
 | TF-IDF Retrieval Fundamentals | Classical vector space retrieval system with ranking metrics and evaluation framework | https://github.com/yourusername/tfidf-retrieval-fundamentals |
-| Sparse Retrieval Engine | Sparse search system ready for RAG extension | https://github.com/yourusername/sparse-retrieval-engine |
-| Neural Network From Scratch | Full mathematical derivation and implementation of neural networks | https://github.com/yourusername/neural-network-from-scratch-with-maths |
-| Mini GPT From Scratch | Transformer and GPT implementation using only mathematical operations | https://github.com/yourusername/mini-gpt-from-scratch |
 
-Replace the links with your actual repository URLs.
 
 
 ## Who This Is For
