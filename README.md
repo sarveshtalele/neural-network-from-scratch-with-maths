@@ -13,7 +13,7 @@ This repository builds upon foundational understanding developed in my other AI 
 
 | Project | Description | Link |
 |----------|-------------|------|
-| TF-IDF Retrieval Fundamentals | Classical vector space retrieval system with ranking metrics and evaluation framework | https://github.com/yourusername/tfidf-retrieval-fundamentals |
+| TF-IDF Retrieval Fundamentals | Classical vector space retrieval system with ranking metrics and evaluation framework | https://github.com/sarveshtalele/neural-network-from-scratch-with-maths/blob/main/TF_IDF_Based_Retrieval_and_Evaluation_Framework.ipynb |
 
 
 
